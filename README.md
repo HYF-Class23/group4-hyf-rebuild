@@ -1,6 +1,6 @@
-# Name of project
+# GROUP4-  hyf-rebuild
 
-> A longer description
+> As a project under the agile development classes and creating the best way for users and easy for accessible. also Creating a modern responsive website to enhance online presence and user engagements for clients.Implementing essential features.ensuring compatablity with the mmajor one.
 
 ## Table of contents
 
@@ -30,9 +30,8 @@
 
 ## Technologies
 
-- Node 14.16.0
-- VSC code
-- JavaScript
+- HTML
+- CSS
 - ...
 - ...
 
@@ -42,9 +41,8 @@
 
 ## Code Examples
 
-```js
-// the hello world program
-console.log("Hello World");
+`
+
 ```
 
 ## Features
@@ -66,11 +64,14 @@ Project is: _in progress_
 
 ## Inspiration
 
-Project by freeCodeCamp.org
+ Project by  [https://github.com/HYF-Class23/group4-hyf-rebuild]
 
 ## Contact
 
-By [Name]
+- by _**enny**_ [https://github.com/EnnyFRANS]
+- by _**hammad**_ [https://github.com/Hammad1820]
+- by _**Gemechis**_[https://github.com/Gemechis10]
+- by _**Smita**_[https://github.com/Smita81]
 
 ## Instructions for use
 
