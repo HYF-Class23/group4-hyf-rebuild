@@ -17,7 +17,7 @@ create your own!
   - [ ] The user wants to see the Nav-bar on top to navigate the other web
         pages.
 - Other Pages
-  - [ ] The user wants to see the otehr pages e.g Programs, Volunteer, About etc
+  - [ ] The user wants to see the other pages e.g Programs, Volunteer, About etc
 - Contacts Us
   - [ ] User wants to see the contacts us form on homepage
 - Social Media Buttons
