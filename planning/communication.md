@@ -2,43 +2,40 @@
 
 ## Group Rules
 
-<!-- any general rules you'd like to set for your group? -->
-
----
+- We have to work as a team, and also have to always communicate before making
+  any merging in the main branch.
+- Please notify timely in case you are not able to join scheduled meetings or
+  required any support from any team members/ Coach.
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+| Day      |  How   | The topic of discussion       |
+| -------- | :----: | ----------------------------- |
+| everyday | online | Issues, PR, GitHub Discussion |
 
 ## Communication Channels
 
-how often will we get in touch on each channel, and what we will discuss there:
-
-- **Issues**:
-- **Pull Requests**:
-- **GitHub Discussions**
-- **Slack/Discord**:
-- **Video Calls**:
-
----
+- slack
+- zoom
 
 ## Availability
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Day      | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
+| -------- | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
+| _name_   | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Smita    | 10 - 14 | 10 - 14 |  10 - 14  | 10 - 14  | 10 - 14 | 10 - 14  | 10 - 14 |
+| Enny     | 11 - 15 | 11 - 15 |  11 - 15  | 11 - 15  | 11 - 15 | 11 - 15  | 11 - 15 |
+| Hammad   | 10 - 14 | 10 - 13 |  11 - 13  | 11 - 14  | 10 - 14 | 10 - 16  | 10 - 18 |
+| Gemechis | 15 - 18 | 15 - 18 |  15 - 18  | 15 - 18  | 15 - 18 | 15 - 18  | 15 - 18 |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Enny:4h;
+- Smita: 6h;
+- Hammad:4h;
+- Gemechis: 3h;
 
 ## Asking for Help
 
