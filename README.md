@@ -1,9 +1,9 @@
-# GROUP4-  hyf-rebuild
+# GROUP4- hyf-rebuild
 
-> As a project under the agile development classes and
-> creating the best way for users and easy for accessible. also
-> Creating a modern responsive website to enhance user engagements for clients.
-> Implementing essential features.ensuring compatablity with the major one.
+> As a project under the agile development classes and creating the best way for
+> users and easy for accessible. also Creating a modern responsive website to
+> enhance user engagements for clients. Implementing essential features.ensuring
+> compatibility with the major one.
 
 ## Table of contents
 
@@ -130,3 +130,4 @@ locally.
   - "_Do not allow bypassing the above settings_"
 
 </details>
+```
