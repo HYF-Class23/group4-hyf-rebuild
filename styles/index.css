@@ -12,10 +12,13 @@ header div {
 }
 
 header div img {
-  max-height: 170px;
-  margin-right: 20px;
+  max-height: 200px;
+  margin-right: 100px;
 }
 
 header div a {
-  margin-right: 30px;
+  margin: 80px;
+  font-size: small;
+  font-family: "Times New Roman", Times, serif;
+  align-items: center;
 }
