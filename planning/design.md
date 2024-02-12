@@ -1,14 +1,13 @@
 # Design
 
+![design](./img/designHomepage.png)
+
 ## Project's design overview
 
-> Give an overview of your project's design
-
-<!-- give an overview of your project's design -->
-<!-- describe the reasoning behind your group's design and wireframe -->
-<!-- include other centralized decisions like fonts, palates, ... -->
-
----
+> This design is the sketch that we took from our project backlog, we are trying
+> to make our website to be same as HackYourFuture website and it yet effective
+> & informative, and considering colorful and attractive design specially for
+> the young souls.
 
 ## Wireframe(s)
 

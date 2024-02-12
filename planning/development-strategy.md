@@ -1,6 +1,8 @@
-# Project Name
+# Hack Your Future Website
 
 <!-- describe your project -->
+
+A simple website about Hack Your Future Organization.
 
 ---
 
@@ -12,11 +14,60 @@
   - rendering the initial user interface
 -->
 
+- Create repo
+- Create a board project
+- Create issues
+- VScode
+- Clone the repo
+- npm i
+- Add html and css files
+- run the packages manager
+
 ---
 
 <!-- copy this section once for each must-have user story -->
 
-## user story
+## 1. Big and bold text
+
+As a user, i want to see Big and Bold Text to make the website more visible
+
+- This user story is developed on branch `textFormat`.
+- This branch is merged to `master` branch after completion.
+
+## 2. Title
+
+As a user, i want to see a clear title of the website
+
+- This user story is developed on branch `title`.
+- This branch is merged to `master` branch after completion.
+
+## 3. Navbar
+
+As a user, i would like to see navbar to easily navigates to different pages
+
+- Developed on branches `navbarHomeHtml` and `navbarHomeCss`.
+- Merged to `master` after completion.
+
+## 4. Other pages
+
+As a user, I would like to visit different pages of HYF
+
+- Developed on branches `pages(pagesName)Html` and `pages(pagesName)Css`.
+- Merged to `master` after completion.
+
+## 5. Contact us form
+
+As a user, I would like to contact the HYF admin easily
+
+- Developed on branches `pages(pagesName)Html` and `pages(pagesName)Css`.
+- Merged to `master` after completion.
+
+## 6. Social media buttons
+
+As a user, I would like to see the HYF social media platforms.
+
+- Developed on branches `socialMediaHtml` and `socialMediaCss`.
+- Merged to `master` after completion.
 
 <!-- each issue created from this section will have the `for: user story` label -->
 
