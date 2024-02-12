@@ -1,7 +1,11 @@
 {
   "language": "en",
   "words": [
+    "Hammad",
+    "Gemechis",
     "HackYourFutureBelgium",
+    "Smita",
+    "Enny",
     "HackYourFuture",
     "Nepo",
     "Ponomarev",
@@ -12,10 +16,10 @@
     "Wireframes",
     "Bilde",
     "Christiaan",
+    "Ponomarev",
     "Verwijs",
     "Todos",
-    "wireframe",
-    "socio"
+    "wireframe"
   ],
   "ignorePaths": [
     "node_modules/**",
