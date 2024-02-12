@@ -1,5 +1,7 @@
 # Group4- hyf-rebuild
 
+## Name of project
+
 > name of our project(<https://github.com/HYF-Class23/group4-hyf-rebuild>) is
 > named by name of our groups.and the name of website that we are going to
 > rebuild. rebuild refers to make extensive repairs for existing
@@ -79,7 +81,7 @@ By [Gemechis](https://github.com/Gemechis10)
 
 By [hammad](https://github.com/Hammad1820)
 
-By [simita](https://github.com/Smita81)
+By [smita](https://github.com/Smita81)
 
 ## Instructions for use
 
