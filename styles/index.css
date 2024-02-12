@@ -1,1 +1,21 @@
 @import url("./something.css");
+
+header {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+}
+
+header div {
+  display: flex;
+  align-items: center;
+}
+
+header div img {
+  max-height: 170px;
+  margin-right: 20px;
+}
+
+header div a {
+  margin-right: 30px;
+}
