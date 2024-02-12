@@ -8,15 +8,11 @@
 6. [Project Board](#project-board)
 7. [Sprinting and Reviewing](#sprinting-and-reviewing)
 
----
-
 ## Brainstorming
 
 > - What user needs and business problem does this app cover?
 > - Who is the user?
-> - What is the business?
-
----
+> - What is the business
 
 ## Prioritizing
 
