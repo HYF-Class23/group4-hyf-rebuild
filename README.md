@@ -1,6 +1,7 @@
-# Name of project
+# Group4- hyf-rebuild
 
-> A longer description
+>name of our project(<https://github.com/HYF-Class23/group4-hyf-rebuild>) is named by name of our groups.and the name of website that we are going to rebuild.
+>rebuild refers to make extensive repairs for existing website.(<https://www.hackyourfuturebelgium.be/>).
 
 ## Table of contents
 
@@ -22,7 +23,9 @@
 
 ## General info
 
-> A short description
+> A website of HYF re building project involves redesigning and restructuring an exisiting website to improve its functionality, aesthetics and overall user experience.
+> This may include updating the website's design,enhancing navigation, optimizing performance and incorporating new features.
+> The goal is to modernize and align the website with current industry standards,improve user engagement, and ensure a seamless and visually appealing online presence.
 
 ## Screenshots
 
@@ -41,11 +44,6 @@
 - `npm run start`
 
 ## Code Examples
-
-```js
-// the hello world program
-console.log("Hello World");
-```
 
 ## Features
 
@@ -66,11 +64,17 @@ Project is: _in progress_
 
 ## Inspiration
 
-Project by freeCodeCamp.org
+Project by  <https://github.com/HYF-Class23/group4-hyf-rebuild>
 
 ## Contact
 
-By [Name]
+By [Enny](https://github.com/EnnyFRANS)
+
+By [Gemechis](https://github.com/Gemechis10)
+
+By [hammad](https://github.com/Hammad1820)
+
+By [simita](https://github.com/Smita81)
 
 ## Instructions for use
 
