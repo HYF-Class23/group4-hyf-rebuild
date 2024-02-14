@@ -23,7 +23,13 @@
     "Ali",
     "Yodiz",
     "Zepel",
-    "socio"
+    "socio",
+    "contactus",
+    "adrs",
+    "nlinput",
+    "subscribelabel",
+    "Tervueren)",
+    "Tervueren"
   ],
   "ignorePaths": [
     "node_modules/**",
