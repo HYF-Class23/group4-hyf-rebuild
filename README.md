@@ -36,7 +36,7 @@
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![Home Page Screenshot](./planning/img/homepageScreenShot.png)
 
 ## Technologies
 
@@ -56,18 +56,23 @@
 
 List of features ready and Todos for future development
 
--
--
--
+- Home Page (Header, Main, and Footer) = priority
+- Program page
+- Volunteer page
 
 To-do list:
 
--
--
+- Header for Home Page
+- Main for Home Page
+- Footer for Home Page
 
 ## Status
 
 Project is: _in progress_
+
+## Live demo
+
+<https://hyf-class23.github.io/group4-hyf-rebuild/>
 
 ## Inspiration
 
